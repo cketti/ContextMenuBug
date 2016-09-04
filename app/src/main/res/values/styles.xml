@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:contextPopupMenuStyle">@style/MyContextPopupMenuStyle</item>
+    </style>
+
+    <style name="MyContextPopupMenuStyle" parent="@android:style/Widget.Holo.Light.PopupMenu">
+        <!-- Uncommenting the line below fixes the context menu popup position on Android N -->
+        <!--<item name="android:overlapAnchor">true</item>-->
+    </style>
+
+</resources>
