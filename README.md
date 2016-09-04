@@ -21,3 +21,5 @@ Making the context menu style set `android:overlapAnchor` to `true` fixes the is
     <item name="android:overlapAnchor">true</item>
 </style>
 ```
+
+Bug in the AOSP issue tracker: [#221643 ListView context menu displayed in wrong location (Android N)](https://code.google.com/p/android/issues/detail?id=221643)
